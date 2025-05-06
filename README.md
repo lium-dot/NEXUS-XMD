@@ -41,26 +41,23 @@ href="https://github.com/pkdriller/NEXUS-XMD/graphs/commit-activity"><img height
   <a href='https://nexus-xmd-pair-code.onrender.com' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-800080?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
+  <a href='https://nexus-xmd-pair.vercel.app/' target="_blank">
+    <img src='https://img.shields.io/badge/PAIR_CODE_2-800080?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000500'/>
+  </a></br>
 
 
-## _⭐ NOW DEPLOY YOUR BOT_
+## _⭐ DEPLOYMENT-SITES_CLICK-HERE_
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ <a href="https://nexus-xmd-deployment-sites.vercel.app/?template=https://nexus-xmd-deployment-sites.vercel.app/"><img title="DEPLOY- NOW " src="https://img.shields.io/badge/DEPLOY-NOW-h?color=red&style=for-the-badge&logo=nike" width="320" height="38.45"/></a></p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="https://pkxmdverificationweb.vercel.app/Pkdriller" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
-      <td><a href="https://host.talkdrove.com/share-bot/47" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-A52A2A?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=pkdriller/NEXUS-XMD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
-      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
-      <td><a href="https://app.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
-    </tr>
-  </table>
-</div>
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+[____________________________________________________]
+
+
 
 
 <br>
@@ -74,7 +71,8 @@ href="https://github.com/pkdriller/NEXUS-XMD/graphs/commit-activity"><img height
 [![NEXUS_XMD](https://readme-typing-svg.demolab.com?font=Anton&size=25&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=340&lines=Have+a%F0%9F%91%8B!+Day;updates+are+always+done;Thanks+all+fam🚀♥️🦜)]
 
   
-
-
+---
+***
+<a href="https://mr-pk-web.vercel.app/"><img src="https://img.shields.io/badge/NEXUS%20XMD%20WEB-skyblue" alt="NEXUS_XMD_WEB" width="270"></a>
 
 

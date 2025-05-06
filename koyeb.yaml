@@ -1,6 +1,6 @@
 name: nexus-xmd
 services:
-  - name: khan-ai-service
+  - name: Nexus-xmd
     type: web
     ports:
       - 5000
