@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "PkdrillerRfERiRpR#ln5TCYp60pqjJhiIA5fFESI9R6aEmgc4hVJKClmsmZQ",
+SESSION_ID: process.env.SESSION_ID || "Pkdrillersu8SgQbY#7U4aVW_hb3R9GBDWibk2vsr5CFYrXn5oTamNmLnsiOc",
 // add your Session Id 
 PREFIX: process.env.PREFIX || "*",
 // add your prifix for bot
@@ -25,7 +25,7 @@ DESCRIPTION: process.env.DESCRIPTION || "*© ᴘσωєʀє∂ ву ★Ꭿ☼︎�
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/Psx1q6km/file-1284.jpg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> ★Ꭿ☼︎ℒ☼︎ℒ✩ℰ✫ℕ♫ ĪS ΛŦ ßƐΛSŦ MᎾDƐ ŔĪƓĤŦ ИᎾᏯ ℛUℕ ℱᎾℛ ᎽᎾUℛ ℒℐℱℰ☠️👀",
+LIVE_MSG: process.env.LIVE_MSG || "> ✦ NEXUS ✦ XMD ✦ ĪS ΛŦ ßƐΛSŦ MᎾDƐ ИᎾᏯ ℛUℕ ℱᎾℛ ᎽᎾUℛ ℒℐℱℰ☠️👀",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
