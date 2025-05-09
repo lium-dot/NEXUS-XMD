@@ -40,7 +40,7 @@ href="https://github.com/pkdriller/NEXUS-XMD/graphs/commit-activity"><img height
   > **⚠️ OPTION ONE**
 
 
-  <a href="https://pair-site-t.onrender.com/pair"><img title="DEPLOY-NOW" src="https://img.shields.io/badge/PAIR-SESSION-h?color=blue&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>  
+  <a href="https://pk-paircode-session.onrender.com/"><img title="DEPLOY-NOW" src="https://img.shields.io/badge/PAIR-SESSION-h?color=blue&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>  
 
 
 
